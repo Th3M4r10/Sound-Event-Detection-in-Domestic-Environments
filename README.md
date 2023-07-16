@@ -1,2 +1,4 @@
 ### Sound-Event-Detection-in-Domestic-Environments
-(will be uploaded soon)
+
+Based on Mechine Learning
+(will be uploaded soon..!)
